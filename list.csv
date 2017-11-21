@@ -20,7 +20,7 @@ regular,1201,19:00,1201,20:00,images/1201/zokuyoitero.png,「続・よいテロ�
 regular,1201,20:00,1201,2:00,images/1201/syuryou.png,狩猟コンパ,食堂,スーパーで買うんじゃなくて自分でとったものだけでコンパ。酒と調味料は買いたい
 regular,1201,22:00,1202,1:00,images/1201/kemono.png,けものフレンズ上映会,,
 regular,1202,9:00,1202,16:00,images/1202/aquours.png,Aquours 1st 上映会,音楽室,
-regular,1202,9:00,1202,17:00,,賞金付きポーカー大会,,7日間使って複数種類のポーカー大会をする
+regular,1202,9:00,1202,17:00,,賞金付きポーカー大会,,4日間使って複数種類のポーカー大会をする
 regular,1202,10:00,1202,13:00,images/1202/ikada.png,イカダレース,鴨川,自らイカダを製作して鴨川を下るレース
 regular,1202,13:00,1202,15:30,images/1202/KUMAN.png,KUMAN,ロビー、食堂,近所の子供たちと遊んだり勉強したり
 regular,1202,14:00,1202,17:00,images/1202/street.png,ストリートパフォーマンス選手権,,数組に分かれ京都市内でそれぞれストリートパフォーマンスを披露。時間制限3時間以内で一番多く稼げたチームの優勝
@@ -30,7 +30,7 @@ regular,1202,18:00,1203,7:00,images/1202/dougama.png,同釜会,食堂,卒寮生�
 regular,1202,21:00,1203,12:00,images/1202/katan.png,耐久カタン,食堂,12時間くらい？カタンをやる。朝になったらモンエナを配布するかも
 regular,1202,21:00,1202,22:00,images/1202/tahoiya.png,たほいや,,たほいやをやる
 regular,1202,22:30,1203,3:00,images/1202/tekira.png,テキーラであそぼ,ロビー,普通にテキーラ飲んだり、トランプの罰ゲームとかで飲んでみんなで遊ぶ
-regular,1203,9:00,1203,17:00,,賞金付きポーカー大会,,7日間使って複数種類のポーカー大会をする
+regular,1203,9:00,1203,17:00,,賞金付きポーカー大会,,4日間使って複数種類のポーカー大会をする
 regular,1203,10:00,1203,14:00,images/1203/shijou.png,四条大運動会,四条通,
 regular,1203,14:00,1203,18:00,images/1203/ramen.jpg,ラーメンis my life,食堂,究極の一杯を作る
 regular,1203,14:00,1203,16:00,images/1203/fondhu.png,○○フォンデュ,,色んな液体に色んな食べ物をフォンデュ
@@ -60,7 +60,6 @@ regular,1206,8:00,1206,12:00,images/1206/eiga.png,独断と偏見の名画上映
 regular,1206,17:00,1206,19:00,images/1206/sasuke.png,くまの寮筋肉王決定戦,食堂,
 regular,1206,19:00,1206,21:00,images/1206/shikiten.png,式典,ビリヤードからテレビ,
 regular,1206,20:00,1207,1:00,images/1206/a56seiki.png,56世紀人コンパ,ロビー,みんな56世紀人になりきってコンパをする
-regular,1206,20:00,1207,0:00,images/1206/kyodaisei.png,京大（先）生を招く,食堂,日頃熊野寮を疎ましく思っている京大生、先生方にも寮のことを知ってもらうために招いてコンパをする
 regular,1206,21:00,1206,,images/1206/pawapo.png,パワポカラオケ,プロジェクターのある場所,1つのテーマを提示して5枚くらいの適当な写真を出します。テーマについて写真に沿ってプレゼンして一番芸術点が高かった人が勝利
 regular,1207,7:30,1207,8:30,images/1207/kangeiko.jpg,寒稽古,中庭,竹刀で真剣白刃取り、剣道体験、おしるこ
 regular,1207,8:00,1207,12:00,images/1207/eiga.png,独断と偏見の名画上映会,,C107小島が独断と偏見で選んだ名画を上映する
@@ -80,7 +79,7 @@ regular,1208,19:00,1208,23:00,images/1208/kasou.png,仮装コンテスト,食堂
 regular,1208,19:00,1208,23:00,images/1208/kikibiru.png,利きビール,食堂,
 regular,1208,19:00,1208,23:00,images/1208/akachan.png,寮生の赤ちゃんの時の写真を集めてコンテスト,常設、食堂,
 regular,1208,19:00,1208,23:00,images/1208/amazon.png,我々はamazon.comの奥地へと向かった,食堂,普通に検索してるだけでは見つけられないようなやつをamazonで見つけてくる。最優秀賞には主催者が見つけたやばいやつをプレゼント
-regular,1209,9:00,1209,17:00,,賞金付きポーカー大会,,7日間使って複数種類のポーカー大会をする
+regular,1209,9:00,1209,17:00,,賞金付きポーカー大会,,4日間使って複数種類のポーカー大会をする
 regular,1209,9:30,1209,12:00,images/1209/nakajima.png,中島みゆき「夜会」上映会,,中島みゆきの夜会の上映を行う
 regular,1209,12:00,1209,18:00,images/1209/ossgate.png,OSS Gate,食堂,OSS Gateを食堂で主催する。OSS Gateとは「OSS活動に参加したいけどハードルが高くて参加できない！」という初心者のサポートをして、OSSに参加するとっかかりを作るという催しです。
 regular,1209,12:00,1209,13:00,images/1209/toefl.jpg,TOEFLで豆腐る,総人広場,TOEFL当日に寮外生も巻き込んで昼の総人広場で豆腐コンパ。１回生は午後組が準備、午前組が片づけを担当。寮外との交流。イメージアップと当局の集会禁止規定粉砕！！
@@ -88,8 +87,9 @@ regular,1209,17:00,1209,19:00,images/1209/guriko.png,京都駅大階段グリコ
 regular,1209,19:30,1210,0:00,images/1209/a5kaisei.png,M1(５回生)企画,食堂,詳細未定。老害が全力で何かをする
 regular,1209,19:30,1210,0:00,images/1209/toushitsu.png,糖質無制限,食堂,甘いもので大食い対決
 regular,1209,20:00,1210,0:00,images/1209/kikisake.png,利き酒,食堂,いろんなお酒を飲んでみる
+regular,1209,20:00,1210,0:00,images/1209/yaminabe.png,闇鍋,,
 regular,1210,9:00,1210,12:00,images/1210/cake.png,ケーキコンパ,,用意された材料でどんなケーキを作れますか？
-regular,1210,9:00,1210,17:00,,賞金付きポーカー大会,,7日間使って複数種類のポーカー大会をする
+regular,1210,9:00,1210,17:00,,賞金付きポーカー大会,,4日間使って複数種類のポーカー大会をする
 regular,1210,10:00,1210,19:00,images/1210/trpg.png,TRPG小会,食堂の机二つ,TRPGをやる、昨年度やその前よりもシステム数の増加を図ったりゲームマスター陣を増やしたりしたい
 regular,1210,12:00,1210,17:00,images/1210/kurabiraki.png,蔵開き,食堂,鏡開きをしてから酒をふるまいます。私のバイト先から麹とか酒米持ってこようかな。
 regular,1210,12:00,1210,14:00,images/1210/ekiden.jpg,熊野駅伝,寮外,鴨川沿いを走ってたすきをつなぐ
@@ -122,15 +122,15 @@ permanent,,,,,images/permanent/nhk.png,NHK撃退シールを貼ってみよう,�
 permanent,,,,,images/permanent/koi.jpg,鯉に恋した男たち,寮外,
 permanent,,,,,images/permanent/soritatsu.png,そり立つ壁,,そりたつ壁をつくる
 permanent,,,,,images/permanent/souji.png,掃除,,窓ふきや床を掃く
+permanent,,,,,images/permanent/warashibe.jpg,わらしべ長者,,
 guerrilla,,,,,images/guerrilla/ningen.png,人間シャンデリア,,喫煙所などを利用して人間シャンデリアを作る
 guerrilla,,,,,images/guerrilla/shower.png,シャワー室待ち人カウントアプリを作る,食堂,企画名の通り、シャワー室で並んでいる人の数をリアルタイムで知ることのできるアプリを作る
 guerrilla,,,,,images/guerrilla/shinshiryou.png,新世代資料システム開発合宿,食堂,寮内でゲリラ的に新世代資料システム開発を行います
 guerrilla,,,,,images/guerrilla/rojou.png,路上なべ,寮外,京都市内のあちこちの路上で鍋をする
 guerrilla,,,,,images/guerrilla/tomotable.png,友達テーブル,食堂,寮内で顔を見たことはあるが話したことのない人と会話できるコンパ以外の場を提供する
 guerrilla,,,,,images/guerrilla/piasu.png,キムにピアス,,
-guerrilla,,,,,images/guerrilla/yaminabe.png,闇鍋,,
 guerrilla,,,,,images/guerrilla/nabeikki.png,寮対抗鍋一気飲みリレー,,
 guerrilla,,,,,images/guerrilla/kotatsu.png,韋駄天こたつ,,移動式のこたつで鍋を食べる、ゲリラ企画
 guerrilla,,,,,images/guerrilla/urutora.png,ウルトラソウル・フラッシュモブ,,寮内の放送で「ウルトラソウル！」とかかったら全員「ヘイ！」と言わなければならない。慣れてきたら四条あたりでやる
-guerrilla,,,,,images/guerrilla/warashibe.jpg,わらしべ長者,,
 guerrilla,,,,,images/guerrilla/kumanokohi.png,クマノコーヒー,机一枚,コーヒー屋をする
+guerrilla,,,,,images/guerrilla/kyodaisei.png,京大（先）生を招く,食堂,日頃熊野寮を疎ましく思っている京大生、先生方にも寮のことを知ってもらうために招いてコンパをする
