@@ -123,6 +123,7 @@ permanent,,,,,images/permanent/koi.jpg,鯉に恋した男たち,寮外,,
 permanent,,,,,images/permanent/soritatsu.png,そり立つ壁,,そりたつ壁をつくる,
 permanent,,,,,images/permanent/souji.png,掃除,,窓ふきや床を掃く,
 permanent,,,,,images/permanent/warashibe.jpg,わらしべ長者,,,
+permanent,,,,,images/permanent/shitsumon.png,熊野寮生だけど質問ある？,ネット上,匿名の質問に対して熊野寮生有志が匿名で回答する。,https://qfk.herokuapp.com/
 guerrilla,,,,,images/guerrilla/ningen.png,人間シャンデリア,,喫煙所などを利用して人間シャンデリアを作る,
 guerrilla,,,,,images/guerrilla/shower.png,シャワー室待ち人カウントアプリを作る,食堂,企画名の通り、シャワー室で並んでいる人の数をリアルタイムで知ることのできるアプリを作る,
 guerrilla,,,,,images/guerrilla/shinshiryou.png,新世代資料システム開発合宿,食堂,寮内でゲリラ的に新世代資料システム開発を行います,
